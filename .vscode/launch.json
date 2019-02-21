@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - joecheckbox",
+            "request": "launch",
+            "mainClass": "joecheckbox"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - hellworld",
             "request": "launch",
             "mainClass": "hellworld"
