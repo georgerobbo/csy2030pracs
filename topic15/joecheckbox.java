@@ -57,10 +57,10 @@ public class joecheckbox {
 
         final JCheckBox chkLube = new JCheckBox("Lube Job"); // Check box labeled Lube Job
         final JCheckBox chkRad = new JCheckBox("Radiator flush"); // Checkbox labeled Radiator flush
-        final JCheckBox chkTran = newJCheckBox("Transmission flush"); // Check box labeled Transmission flush
+        final JCheckBox chkTran = new JCheckBox("Transmission flush"); // Check box labeled Transmission flush
         final JCheckBox chkInspec = new JCheckBox("Inspection"); // Check box labeled Inspection
         final JCheckBox chkMuffler = new JCheckBox("Muffler Replacement"); // Check box labeled Muffler Replacement
-        final JCheckBox chkTire = newJCheckBox("Tire rotation"); // Check box labeled Tire rotation
+        final JCheckBox chkTire = new JCheckBox("Tire rotation"); // Check box labeled Tire rotation
         final JCheckBox chkmisc = new JCheckBox("Misc job"); // Check box labeled Misc job
 
         ItemListener oilItemListener = new ItemListener() {
