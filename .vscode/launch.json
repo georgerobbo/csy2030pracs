@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "csy2030pracs_2fec0c6f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - joecheckbox",
             "request": "launch",
             "mainClass": "joecheckbox"
